@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\tracker\\tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|solutionrelative:tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\tracker\\tracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|solutionrelative:tracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\tracker\\tracker\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|solutionrelative:tracker\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\tracker\\tracker\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|solutionrelative:tracker\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\tracker\\tracker\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|solutionrelative:tracker\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\tracker\\tracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|solutionrelative:tracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\tracker\\tracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|solutionrelative:tracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|c:\\users\\matheus\\documents\\projetos\\c#\\tracker\\tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA10571-D994-4B43-8E20-DBFACBA28ABE}|Tracker\\Tracker.csproj|solutionrelative:tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Expenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Views\\Home\\Expenses.cshtml",
+              "RelativeDocumentMoniker": "Tracker\\Views\\Home\\Expenses.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Views\\Home\\Expenses.cshtml",
+              "RelativeToolTip": "Tracker\\Views\\Home\\Expenses.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:48:24.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpendSmartDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Models\\SpendSmartDbContext.cs",
+              "RelativeDocumentMoniker": "Tracker\\Models\\SpendSmartDbContext.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Models\\SpendSmartDbContext.cs",
+              "RelativeToolTip": "Tracker\\Models\\SpendSmartDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:03:15.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Tracker\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Models\\Expense.cs",
+              "RelativeToolTip": "Tracker\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:01:50.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T02:56:55.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Tracker\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Tracker\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:04:01.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Tracker\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Program.cs",
+              "RelativeToolTip": "Tracker\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:57:37.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Tracker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T02:55:33.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEditExpense.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeDocumentMoniker": "Tracker\\Views\\Home\\CreateEditExpense.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\C#\\Tracker\\Tracker\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeToolTip": "Tracker\\Views\\Home\\CreateEditExpense.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T02:54:46.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
